@@ -8,6 +8,7 @@ public class kma01 {
         String a = scanner.nextLine();
         scanner.close();
         
+        
 
     }
 }
