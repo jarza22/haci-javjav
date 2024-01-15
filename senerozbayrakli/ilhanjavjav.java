@@ -1,3 +1,4 @@
+package senerozbayrakli;
 // buralarda java'yı yeniden hatırlıyor olacağım..
 
 public class ilhanjavjav {
